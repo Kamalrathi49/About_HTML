@@ -4,7 +4,7 @@ Body {
 h1{
     display: flex;
     justify-content: center;
-    border: solid linen 2px;  
+    border: solid linen 1px;  
    background-color: linen;
 }
 .page-footer{
